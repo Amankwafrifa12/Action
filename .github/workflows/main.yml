@@ -17,4 +17,4 @@ jobs:
         server: ftp.geniehiveco.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server_dir: /domains/github.geniehiveco.com/
+        server_dir: /github.geniehiveco.com/
